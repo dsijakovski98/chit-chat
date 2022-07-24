@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../../layout/custom_preview.xml" value="0.10221822541966427" />
+        <entry key="app/src/main/res/drawable/addbutton.xml" value="0.245" />
+        <entry key="app/src/main/res/drawable/email.xml" value="0.245" />
+        <entry key="app/src/main/res/drawable/message_text_background.xml" value="0.245" />
+        <entry key="app/src/main/res/drawable/password.xml" value="0.245" />
+        <entry key="app/src/main/res/drawable/sendbutton.xml" value="0.245" />
+        <entry key="app/src/main/res/drawable/username.xml" value="0.245" />
+        <entry key="app/src/main/res/layout-land/activity_chat.xml" value="0.19797178130511464" />
+        <entry key="app/src/main/res/layout-land/activity_login.xml" value="0.19797178130511464" />
+        <entry key="app/src/main/res/layout-land/activity_main.xml" value="0.19797178130511464" />
+        <entry key="app/src/main/res/layout-land/activity_profile.xml" value="0.19797178130511464" />
+        <entry key="app/src/main/res/layout-land/activity_register.xml" value="0.19797178130511464" />
+        <entry key="app/src/main/res/layout-land/activity_setting.xml" value="0.19797178130511464" />
+        <entry key="app/src/main/res/layout-land/activity_user.xml" value="0.19797178130511464" />
+        <entry key="app/src/main/res/layout/activity_chat.xml" value="0.2390625" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.2390625" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2390625" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.2390625" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.2390625" />
+        <entry key="app/src/main/res/layout/activity_setting.xml" value="0.2390625" />
+        <entry key="app/src/main/res/layout/activity_status.xml" value="0.2390625" />
+        <entry key="app/src/main/res/layout/activity_user.xml" value="0.2390625" />
+        <entry key="app/src/main/res/layout/app_bar_layout.xml" value="0.2390625" />
+        <entry key="app/src/main/res/layout/fragment_chat.xml" value="0.2390625" />
+        <entry key="app/src/main/res/layout/fragment_friend.xml" value="0.2390625" />
+        <entry key="app/src/main/res/layout/fragment_request.xml" value="0.23385416666666667" />
+        <entry key="app/src/main/res/layout/import_activity_chat.xml" value="0.2390625" />
+        <entry key="app/src/main/res/layout/import_activity_login.xml" value="0.2390625" />
+        <entry key="app/src/main/res/layout/import_activity_main.xml" value="0.2390625" />
+        <entry key="app/src/main/res/layout/import_activity_profile.xml" value="0.2390625" />
+        <entry key="app/src/main/res/layout/import_activity_register.xml" value="0.2390625" />
+        <entry key="app/src/main/res/layout/import_activity_setting.xml" value="0.23385416666666667" />
+        <entry key="app/src/main/res/layout/import_activity_status.xml" value="0.23385416666666667" />
+        <entry key="app/src/main/res/layout/import_activity_user.xml" value="0.23385416666666667" />
+        <entry key="app/src/main/res/layout/import_actvity_user.xml" value="0.2390625" />
+        <entry key="app/src/main/res/layout/message_single_layout.xml" value="0.23385416666666667" />
+        <entry key="app/src/main/res/layout/message_single_layout2.xml" value="0.23385416666666667" />
+        <entry key="app/src/main/res/layout/recycle_list_single_user.xml" value="0.23385416666666667" />
+        <entry key="app/src/main/res/menu/main_menu.xml" value="0.23385416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
