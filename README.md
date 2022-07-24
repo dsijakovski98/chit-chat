@@ -1,37 +1,43 @@
 # <h1 align = "center">Chit Chat</h1>
 ### <h3 align= "center">Firebase - powered Android app for chatting with friends</h1>
 
+<img src="https://github.com/dsijakovski98/chit-chat/blob/main/screenshots/login.png" width="200"> &nbsp; <img src="https://github.com/dsijakovski98/chit-chat/blob/main/screenshots/register.png" width="200">
+&nbsp;
+#
+<img src="https://github.com/dsijakovski98/chit-chat/blob/main/screenshots/chat.png" width="200"> &nbsp; <img src="https://github.com/dsijakovski98/chit-chat/blob/main/screenshots/friends.png" width="200">
+&nbsp;
+
 # FEATURES
 
-### &nbsp;  --->LOGIN , REGISTER
+### &nbsp;  LOGIN , REGISTER
 * Register new account
 * Login with existing account
 * Logout
 * Firebase authentication for login and register
 
-#### &nbsp; --->VIEW ALL USERS
+#### &nbsp; VIEW ALL USERS
 * View all the users using the app
 * View their profile image and status
 
-#### &nbsp; --->MAKE NEW FRIENDS
+#### &nbsp; MAKE NEW FRIENDS
 * Send friend request to any user
 * Cancel friend request sent
 * Accept friend request received
 * Decline friend request received
 * Notification will be received by receiver
 
-#### &nbsp; --->MAINTAIN OWN ACCOUNT
+#### &nbsp; MAINTAIN OWN ACCOUNT
 * Change Profile Image
 * Change Status
 
-#### &nbsp; --->CHAT WITH FRIENDS
+#### &nbsp; CHAT WITH FRIENDS
 * Send Messages
 * Send Images
 * Delete Messages
 * Last seen 
 * Friend is Online or not
 
-#### &nbsp; --->OTHERS
+#### &nbsp; OTHERS
 * Firebase Offline (Once page is loaded , one can view it in offline mode)
 * Firebase Cloud Messaging , OKHTTP3 (for sending notification)
 * Image Cropping 
